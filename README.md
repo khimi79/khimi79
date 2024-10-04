@@ -1,10 +1,7 @@
-👋 Hi, I’m @khimi79
-👀 I’m interested in technology, programming, and machine learning.
-🌱 I’m currently learning advanced algorithms and data structures.
-💞️ I’m looking to collaborate on open-source projects related to natural language processing or computer vision.
-📫 You can reach me via email at tlokhimi@gmail.com or on LinkedIn at Lokhimi Terangpi.
-😄 Pronouns: She/Her
-⚡ Fun fact: I enjoy experimenting with new programming languages in my free time!
+Hi,
+just looking for some collaborate on open-source projects.
+
+
 
 
 <!---
