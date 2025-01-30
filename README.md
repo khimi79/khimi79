@@ -1,5 +1,5 @@
 Hi,
-just looking for some collaborate on open-source projects.
+just looking for some collaboration on open-source projects.
 
 
 
